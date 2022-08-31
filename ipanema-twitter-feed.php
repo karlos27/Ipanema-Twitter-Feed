@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Ipanema Twitter Feed
- * Plugin URI: https://github.com/karlos27/Ipanema-Film-Reviews.git
+ * Plugin URI: https://github.com/karlos27/Ipanema-Twitter-Feed.git
  * Description: This plugin lets you add a twitter feed into your WordPress site.
  * Author: segcgonz
  * Author URI: https://github.com/karlos27
