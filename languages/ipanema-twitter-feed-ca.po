@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-09-04 15:40+0200\n"
+"PO-Revision-Date: 2022-09-04 15:40+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: include/admin/index.php:88 include/admin/index.php:113
+msgid "Ipanema Twitter Feed Configuration"
+msgstr "Configuració d'Ipanema Twitter Feed"
+
+#: include/admin/index.php:89
+msgid "Ipanema Twitter Feed"
+msgstr "Ipanema Twitter Feed"
+
+#: include/admin/index.php:118
+msgid "Settings saved successfully"
+msgstr "Configuració guardada correctament"
+
+#: include/admin/index.php:132
+msgid " ("
+msgstr " ("
+
+#: include/admin/index.php:133
+msgid " (Empty)"
+msgstr " (Buit)"
+
+#: include/admin/index.php:146
+msgid "Setting name"
+msgstr "Nom de la configuració"
+
+#: include/admin/index.php:151
+msgid "Username"
+msgstr "Usuari"
+
+#: include/admin/index.php:156
+msgid "Width"
+msgstr "Amplada"
+
+#: include/admin/index.php:161
+msgid "Height"
+msgstr "Alçada"
+
+#: include/admin/index.php:166
+msgid "Number of tweets to display"
+msgstr "Nombre de piulades a mostrar"
+
+#: include/admin/index.php:171
+msgid "Select language"
+msgstr "Selecciona idioma"
+
+#: include/admin/index.php:184
+msgid "Dark mode"
+msgstr "Mode fosc"
+
+#: include/admin/index.php:188
+msgid "Submit"
+msgstr "Guardar"
+
+#: include/admin/index.php:200
+msgid "Instructions"
+msgstr "Instruccions"
+
+#: include/admin/index.php:206
+msgid "FAQ"
+msgstr "FAQ"
+
+#: include/admin/index.php:210
+msgid "Ipanema Twitter Feed "
+msgstr "Ipanema Twitter Feed "
+
+#: include/admin/index.php:211
+msgid "plugin lets you add an awesome twitter feed/s into your WordPress site."
+msgstr ""
+"és un plugin que us permet afegir una/es fantàstica/es cronologia/es de "
+"Twitter al vostre lloc de WordPress."
+
+#: include/admin/index.php:221
+msgid "Follow the instructions: "
+msgstr "Instruccions: "
+
+#: include/admin/index.php:223
+msgid "Managing multiple sets in Ipanema Twitter Feed."
+msgstr "Gestiona diferents configuracions a Ipanema Twitter Feed."
+
+#: include/admin/index.php:224
+msgid "Specify the characteristics for each set of configuration."
+msgstr ""
+"Especifiqueu les característiques per a cada conjunt de configuració "
+"establert."
+
+#: include/admin/index.php:226
+msgid "Setting name:"
+msgstr "Nom de la configuració:"
+
+#: include/admin/index.php:229
+msgid "Name (or title) for the configuration set."
+msgstr "Nom (o títol) per al conjunt de la configuració."
+
+#: include/admin/index.php:234
+msgid "Username:"
+msgstr "Usuari:"
+
+#: include/admin/index.php:237
+msgid "Your (or other) twitter username. By default, WordPress (@WordPress)."
+msgstr ""
+"El vostre (o un altre) nom d'usuari de Twitter. Per defecte, WordPress "
+"(@WordPress)."
+
+#: include/admin/index.php:242
+msgid "Width:"
+msgstr "Amplada:"
+
+#: include/admin/index.php:245
+msgid ""
+"The width property sets the width desired for the feed (length unit in "
+"'px'). By default, 560."
+msgstr ""
+"La propietat 'amplada' estableix el valor per a l'amplada desitjada de la "
+"cronologia de Twitter (unitat de longitud en \"px\"). Per defecte, 560."
+
+#: include/admin/index.php:250
+msgid "Height:"
+msgstr "Alçada:"
+
+#: include/admin/index.php:253
+msgid ""
+"The height property sets the height desired for the feed (length unit in "
+"'px'). Minimum value, 200. Related with 'Number of tweets to display' "
+"configuration property."
+msgstr ""
+"La propietat alçada estableix el valor per a l'alçada desitjada de la "
+"cronologia de Twitter (unitat de longitud en 'px'). Valor mínim, 200. "
+"Relacionat amb la propietat de configuració \"Nombre de piulades a mostrar\"."
+
+#: include/admin/index.php:258
+msgid "Number of tweets to display:"
+msgstr "Nombre de piulades a mostrar:"
+
+#: include/admin/index.php:261
+msgid ""
+"Number of tweets that you want to display in the feed (related with 'height' "
+"configuration property)."
+msgstr ""
+"Nombre de piulades que voleu mostrar a la cronologia (relacionat amb la "
+"propietat de configuració \"alçada\")."
+
+#: include/admin/index.php:266
+msgid "Select language:"
+msgstr "Selecciona idioma:"
+
+#: include/admin/index.php:269
+msgid "Select desired twitter feed language."
+msgstr "Selecciona l'idioma desitjat per a la cronologia de twitter."
+
+#: include/admin/index.php:274
+msgid "Dark mode:"
+msgstr "Mode fosc:"
+
+#: include/admin/index.php:277
+msgid "Also known as 'Dark side'. "
+msgstr "També conegut com a 'Costat Fosc'. "
+
+#: include/admin/index.php:280
+msgid "Read more"
+msgstr "Llegeix més"
+
+#: include/admin/index.php:283
+msgid "Related to"
+msgstr "Relacionat amb"
+
+#: include/admin/index.php:289
+msgid "Add the shortcode in page or post."
+msgstr "Afegeix el 'shortcode' (codi abreviat) en una pàgina o publicació."
+
+#: include/admin/index.php:293
+msgid ""
+"To add the desired Twitter feed configuration set, you must add the "
+"shortcode 'twitterfeed' plus the number set configuration in the "
+"'option_id'. See the example below."
+msgstr ""
+"Per afegir la configuració de la cronologia de Twitter desitjada, cal afegir "
+"el 'shortcode' (codi abreviat) \"twitterfeed\" i el valor de la configuració "
+"escollida a \"option_id\". Vegeu l'exemple següent."
+
+#: include/admin/index.php:296
+msgid "[twitterfeed option_id=\"4\"]"
+msgstr "[twitterfeed option_id=\"4\"]"
+
+#: include/admin/index.php:303
+msgid "FAQ:"
+msgstr "FAQ:"
+
+#: include/admin/index.php:307
+msgid "How can I add the twitter feed in a page or post?"
+msgstr ""
+"Com puc afegir la cronologia de Twitter en una pàgina o publicació qualsevol?"
+
+#: include/admin/index.php:311
+msgid ""
+"You just need to add your preferred configuration's shortcode at in any page "
+"or post. Change the 'option_id' parameter in the shortcode to render a "
+"specific 'Twitter feed configuration'. For example, if you want to show the "
+"feed related to 'configuration one', you just have to add:"
+msgstr ""
+"Només heu d'afegir el 'shortcode' (codi abreviat) de la configuració "
+"escollida a qualsevol pàgina o publicació. Canvieu el paràmetre \"option_id"
+"\" en el 'shortcode' o codi abreviat per mostrar una \"configuració de "
+"cronologia de Twitter\" específica. Per exemple, si voleu mostrar la "
+"cronologia relacionada amb la 'configuració u', només heu d'afegir:"
+
+#: include/admin/index.php:315
+msgid "[twitterfeed option_id=\"1\"]"
+msgstr "[twitterfeed option_id=\"1\"]"
