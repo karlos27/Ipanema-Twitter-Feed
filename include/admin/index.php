@@ -126,7 +126,7 @@ function itf_sttngs_config_page() {
             $temp_options = itf_gt_database_options( $counter ); 
             $class = ( $counter == $option_id ) ? ' nav-tab-active' : '';?>
             <a class="nav-tab<?php esc_html_e( $class, 'ipanema-twitter-feed' ); ?>" 
-                href="<?php echo add_query_arg( array( 'page' => 'itf-admin-menu', 'option_id' => $counter ), 
+                href="<?php echo esc_url( add_query_arg( array( 'page' => 'itf-admin-menu', 'option_id' => $counter ) ), 
                 admin_url( 'options-general.php' ) ); ?>">
                 <?php esc_html_e( $counter, 'ipanema-twitter-feed' ); ?>
                 <?php if ( $temp_options !== false ) esc_html_e( ' (' . $temp_options['tw_setting_name'] . ')', 'ipanema-twitter-feed' ); 

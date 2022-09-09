@@ -41,7 +41,5 @@ For example, if you want to show the feed related to configuration one, you just
 == Screenshots == 
  
 1. Random configuration into the first twitter feed settings tab.
-2. Rendering first configuration tab.
-3. Random configuration into the third twitter feed settings tab.
-4. Rendering third configuration tab.
-5. Help tab capture.
+2. Random configuration into the third twitter feed settings tab.
+3. Help tab capture.
