@@ -1,7 +1,7 @@
 <?php
 /**
  * File Name: index.php
- * Folder Path: /admin
+ * Folder Path: /include/admin
  * Plugin Name : Ipanema Twitter Feed
  * 
  **/
